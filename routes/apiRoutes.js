@@ -1,12 +1,10 @@
 const authJwt = require('./jwtVerification');
 
 module.exports = (app) => {
-    console.log('routerWork')
     const userController = require('../controller/user.controller');
     const orderController = require('../controller/orders.controller');
     const productController = require('../controller/products.controller');
     const upload = require("../middleware/upload");
-    const config = require('../config/jwtConfig');
 
     app.post('/api/user/create', userController.Register)
     app.post('/api/auth/login', userController.login);
