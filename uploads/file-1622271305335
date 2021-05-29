@@ -1,0 +1,9 @@
+id,name,role_id,organization_id,parent_organization_id,email,mobile_number,password,temporary_password,surveyor_type,surveyor_category,surveyor_session,jwt,avatar,otp,status,createdAt,updatedAt
+7,giri,1,1,0,giriram@gmail.com,NULL,$2b$10$a/7YWZiodolSO5tbHh/fTeC40vfFZkEcD2q/OMDfD3pMNh9wf0pQa,ro;h(Sz4M8,NULL,NULL,NULL,NULL,NULL,NULL,1,"2021-04-15 07:20:36","2021-04-15 10:37:39"
+9,adsgag,2,4,NULL,adsga@fdg.com,1234567890,$2b$10$CmzXPtbK4Rna0THyVTgGROGSYLlQxaN7z7RsBx4yJ8oU/3Uyqo48W,p#A1|7)^xX,NULL,NULL,NULL,NULL,NULL,NULL,1,"2021-04-16 08:11:09","2021-04-16 09:33:04"
+10,giri,2,5,NULL,qewrwerwqrqwrewreqrwr@safsdsa.com,4568778,$2b$10$d9SUkzuMhFWlxO7PgIc1HeXQZYkq/kw0D3ZpmUM3zxrqqo320RZ9.,"T1e,1llD4*",NULL,NULL,NULL,NULL,NULL,NULL,1,"2021-04-16 08:12:04","2021-04-16 09:31:18"
+11,Naren,2,7,NULL,weq@gmail.com,98765432,$2b$10$0Gb7wqMOI4r0GTfLTamfWu7bl0SqDut/1HxMwadz1jeZja8U2lO96,2@&z$KY<S1,NULL,NULL,NULL,NULL,NULL,NULL,1,"2021-04-16 08:39:20","2021-04-16 09:31:39"
+12,adgadg,3,6,4,raiyan@mail.com,1234567890,$2b$10$NVbmBXIBzXkGKBnG7ZvOUO26nOkPohWQw2PXsiRWqkrRdEsx27Pgu,4Pa~%{9dyWj8,NULL,NULL,NULL,NULL,NULL,NULL,1,"2021-04-21 05:43:51","2021-04-29 11:23:11"
+14,Raiyan22,2,10,NULL,raiyan2@mail.com,876543210,$2b$10$a8Pu5Q6J0gNNYVd7BfZctuic6cyJdWZmxfMMQObMoUCze5bcVXQu2,m&pssc#U3S,NULL,NULL,NULL,NULL,NULL,NULL,1,"2021-04-23 07:01:05","2021-04-23 07:01:05"
+15,regsfgsg,2,11,NULL,ewreqrwr@safsdsa.com,4444,$2b$10$so/Y0NA7rd5mzfN.FWqTaOFoe6dDS6Yp0lknAlzPpRRIw6E6/5dtC,J1sY6<972&,NULL,NULL,NULL,NULL,NULL,NULL,1,"2021-04-23 09:55:08","2021-04-23 09:55:08"
+16,"Raiyan new",2,12,NULL,raiyan789@mail.com,NULL,$2b$10$Uv8CXpTLJFTPKL5cz.oUR.OsUKhqp0JMM75mm2oH16b15X8duFVS2,}!(r&3B8qo,NULL,NULL,NULL,NULL,NULL,NULL,1,"2021-04-29 11:05:26","2021-04-29 11:05:26"
